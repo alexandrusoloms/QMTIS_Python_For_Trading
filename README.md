@@ -1,5 +1,5 @@
 # QMTIS_Python_For_Trading
-Queen Mary Trading and Investment Society Python for Trading Tutorials 
+__Queen Mary Trading and Investment Society Python for Trading Tutorials__
 
 Author: Alexandru-Marius Solomes
 
